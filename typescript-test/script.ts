@@ -5,3 +5,4 @@ function sayHelloWorld(): void {
   }
   
   sayHelloWorld();
+  console.log('Hi')
