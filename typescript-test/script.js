@@ -4,3 +4,4 @@ function sayHelloWorld() {
     console.log("\n");
 }
 sayHelloWorld();
+console.log('Hi');

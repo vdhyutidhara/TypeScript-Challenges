@@ -5,4 +5,7 @@ function sayHelloWorld(): void {
   }
   
   sayHelloWorld();
-  console.log('Hi')
+  console.log('Hi');
+
+// Suggested code may be subject to a license. Learn more: ~LicenseLog:3718595307.
+  // This is test code
