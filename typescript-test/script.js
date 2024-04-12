@@ -5,3 +5,11 @@ function sayHelloWorld() {
 }
 sayHelloWorld();
 console.log('Hi');
+// Suggested code may be subject to a license. Learn more: ~LicenseLog:3718595307.
+// This is test code
+function printTest() {
+    console.log("\n");
+    console.log("Hello World from Type Script code. ");
+    console.log("\n");
+}
+printTest();
